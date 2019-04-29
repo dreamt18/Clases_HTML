@@ -1,19 +1,48 @@
+body {									 /* fondo*/
+	margin: 0;
+	background-image: url('ropa3.jpg');
+	background-size: 100vw 100vh;
+	background-attachment: fixed;
 
-/* Agregando  color */
-body{
-	border-color: black;
-    background-color: violet;
 }
-/*  titulos*/
-  
-h1{
-	
-	background-position: center;
-    text-align: center;
+h1 {							 /*Titulo*/
+	color: #000000;
+	text-align: center;
+    margin-bottom: 20px;
+    font-family: 'SegIoe U';
+	font-weight: lighter;
+} 
+
+h2{								/*Titulo2 y 3*/
+    color: #050005;
+    font-family: 'SegIoe U'; 
+	font-weight: lighter;
+	text-align: center;
+	background-color: #FFFFFF;
+	border-radius: 7px;
+
+} 
+
+.btn-submit {					/*Botones edita y agrega*/			
+	width: 90%;
+	font-family: 'SegIoe U';
+	background: #f17070;
+	color: rgb(7, 6, 6);
+    margin-top: 15px;
+    font-family: 'SegIoe U'; 
+    font-weight: lighter;
+	margin-left: 25px;
+	border-radius: 7px;
+} 
+
+.btn-submit2 {
+	width: 90%;
+	font-family: 'SegIoe U';
+	background: #f17070;
+	color: rgb(7, 6, 6);
+    margin-top: 15px;
+    font-family: 'SegIoe U'; 
+    font-weight: lighter;
+	margin-left: 25px;
+	border-radius: 7px;
 }
-div {
-	margin: center;
-	background-position: center; 
-    text-align: center; 
-}
-	
