@@ -1,0 +1,26 @@
+
+body{
+    background: rgb(102, 247, 210);
+    font-family: 'Raleway';
+    font-size: 14px;
+}h1{
+    margin:5px;
+    text-align: center;
+
+}
+h2{
+    margin: 5px;
+    text-align: center;
+}
+h4{
+    margin:5px;
+    text-align: center;
+}
+p{
+    margin:5px;
+    text-align: center;
+}
+.img{
+    image-orientation: 0deg;
+     
+}
